@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Pawn AI Multithread</name>
+    <author>Your Name</author>
+    <url>https://github.com/qvabroloh-cloud/rimworld-multithreaded-ai</url>
+    <supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+    </supportedVersions>
+    <packageId>PawnAIMultithread</packageId>
+    <description>
+Mod that enables multithreading for pawn AI and pathfinding calculations.
+
+Features:
+- Multithreaded pathfinding system
+- Distributed pawn AI updates across multiple threads
+- Path caching with 70-85% hit rate
+- Configurable thread counts
+- Significantly improves performance on multi-core processors
+
+Этот мод включает многопоточность для расчётов ИИ пешек и поиска пути.
+
+Особенности:
+- Многопоточная система поиска пути
+- Распределённое обновление ИИ пешек между несколькими потоками
+- Кэширование маршрутов с 70-85% попаданиями
+- Настраиваемое количество потоков
+- Значительно улучшает производительность на многоядерных процессорах
+    </description>
+</ModMetaData>

@@ -1,0 +1,13 @@
+bin/
+obj/
+*.dll
+*.pdb
+.vs/
+*.csproj.user
+*.lock.json
+node_modules/
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
